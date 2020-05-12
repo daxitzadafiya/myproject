@@ -1,0 +1,242 @@
+*
+{
+    margin: 00px;
+    padding:00px;
+   
+}
+
+.container
+{
+    height: 100vh;
+    width:100%;
+    justify-content: space-evenly;
+    align-items: center;
+    display: flex;
+}
+
+.container .card
+{
+    height: Auto;
+    width:250px;
+    box-shadow: 5px 5px 5px gray;
+    border-radius:10px;
+    transition:ease-in-out .3s;
+}
+
+.container .cardtop
+{
+    height: 150px;
+    width:250px;
+    background:linear-gradient(to right,#00b09b,#96c93d);
+    border-radius: 10px;
+
+}
+.container .cardImage
+{
+    background-image: url(team2.jpg);
+    width:100px;
+    height: 100px;
+    background-size: 100%;
+    position: relative;
+    border-radius: 50px;
+    left: 70px;
+    top:-50px;
+}
+
+.container .cardContain
+{
+    text-align: center;
+}
+.container .cardContain .name
+{
+    position: relative;
+    top:-30px;
+    bottom:00px;
+}
+.container .cardContain .About
+{
+    position: relative;
+    top:-10px;
+}
+
+
+.container .cardContain .cardButton
+{
+    margin:10px;
+    width:100px;
+    padding:5px;
+    position: relative;
+    text-decoration: none;
+    border: none;
+    font-size:15px;
+    transition:ease-in-out 1s;
+    
+}
+
+.container .cardContain .cardButton:hover
+{
+    background-color: #00b09b;
+    border-radius: 20px;
+    padding:5px;
+    transition: 1s;
+}
+
+.container .card:hover
+{
+    margin-top: -15px;
+    transition:.3s;
+}
+
+
+/* card 2 css */
+
+.container .card2
+{
+    height: Auto;
+    width:250px;
+    box-shadow: 5px 5px 5px gray;
+    border-radius:10px;
+    transition:ease-in-out .3s;
+}
+
+.container .cardtop2
+{
+    height: 150px;
+    width:250px;
+    background:linear-gradient(to right,#ee0979,#ff6a00);
+    border-radius: 10px;
+
+}
+.container .cardImage2
+{
+    background-image: url(team3.jpg);
+    width:100px;
+    height: 100px;
+    background-size: 100%;
+    position: relative;
+    border-radius: 50px;
+    left: 70px;
+    top:-50px;
+}
+
+.container .cardContain2
+{
+    text-align: center;
+}
+.container .cardContain2 .name2
+{
+    position: relative;
+    top:-30px;
+    bottom:00px;
+}
+.container .cardContain2 .About2
+{
+    position: relative;
+    top:-10px;
+}
+
+
+.container .cardContain2 .cardButton2
+{
+    margin:10px;
+    width:100px;
+    padding:5px;
+    position: relative;
+    text-decoration: none;
+    border: none;
+    font-size:15px;
+    transition:ease-in-out 1s;
+    
+}
+
+.container .cardContain2 .cardButton2:hover
+{
+    background-color: #ee0979;
+    border-radius: 20px;
+    padding:5px;
+    transition: 1s;
+}
+
+.container .card2:hover
+{
+    margin-top: -15px;
+    transition:.3s;
+}
+
+
+/* card 3 css*/
+
+.container .card3
+{
+    height: Auto;
+    width:250px;
+    box-shadow: 5px 5px 5px gray;
+    border-radius:10px;
+    transition:ease-in-out .3s;
+}
+
+.container .cardtop3
+{
+    height: 150px;
+    width:250px;
+    background:linear-gradient(to right,#00b09b,#96c93d);
+    border-radius: 10px;
+
+}
+.container .cardImage3
+{
+    background-image: url(team4.jpg);
+    width:100px;
+    height: 100px;
+    background-size: 100%;
+    position: relative;
+    border-radius: 50px;
+    left: 70px;
+    top:-50px;
+}
+
+.container .cardContain3
+{
+    text-align: center;
+}
+.container .cardContain3 .name3
+{
+    position: relative;
+    top:-30px;
+    bottom:00px;
+}
+.container .cardContain3 .About3
+{
+    position: relative;
+    top:-10px;
+}
+
+
+.container .cardContain3 .cardButton3
+{
+    margin:10px;
+    width:100px;
+    padding:5px;
+    position: relative;
+    text-decoration: none;
+    border: none;
+    font-size:15px;
+    transition:ease-in-out 1s;
+    
+}
+
+.container .cardContain3 .cardButton3:hover
+{
+    background-color: #00b09b;
+    border-radius: 20px;
+    padding:5px;
+    transition: 1s;
+}
+
+.container .card3:hover
+{
+    margin-top: -15px;
+    transition:.3s;
+}
+
+
